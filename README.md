@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devpriyankgh
-- 👀 I’m interested in DevOps
+- 👀 I’m interested in DevOps, Cryptocurrencies, LLM, AI
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps, LLM, AI
 - 📫 How to reach me visit www.priyanksrivastava.com  mail# hi@priyanksrivastava.com
